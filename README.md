@@ -10,7 +10,7 @@ When working in the Jupyter notebook environment, we can actually use pandas to 
 
 we're using SQLite, because First, most data analysts and data scientists in the industry use a SQL GUI based tool, which:
 
-let you write queries and save them for later
-let you run queries against multiple enterprise database systems (MySQL, Postgres, etc.)
-return results as a table
-create standard visualizations like line charts, bar plots, and histograms from the results table without any programming
+- let you write queries and save them for later
+- let you run queries against multiple enterprise database systems (MySQL, Postgres, etc.)
+- return results as a table
+- create standard visualizations like line charts, bar plots, and histograms from the results table without any programming
